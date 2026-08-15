@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "75d3b589-ef43-4254-9884-1fc60c0d8125")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 17.78 104.14)
+		(size 36.83 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "26f57412-9ed0-41f1-953c-916ad386437f")
+		(property "Sheetname" "Loop Filter"
+			(at 17.78 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LoopFilter.kicad_sch"
+			(at 17.78 131.3946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PLL PCB"
+				(path "/75d3b589-ef43-4254-9884-1fc60c0d8125"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.145 65.405)
+		(size 36.195 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "45f7c90e-0db0-4489-990a-df9ffedd016d")
+		(property "Sheetname" "Power Supply"
+			(at 17.145 64.6934 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power Supply.kicad_sch"
+			(at 17.145 93.9296 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PLL PCB"
+				(path "/75d3b589-ef43-4254-9884-1fc60c0d8125"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.145 24.765)
+		(size 37.465 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "55454ff3-4ac8-4c3d-ac2b-3a7fba1edffd")
+		(property "Sheetname" "ADF & OSC"
+			(at 17.145 24.0534 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADF_OSC_LoopFilter.kicad_sch"
+			(at 17.145 54.5596 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PLL PCB"
+				(path "/75d3b589-ef43-4254-9884-1fc60c0d8125"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
