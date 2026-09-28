@@ -1,0 +1,6 @@
+.history/
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+~PLL-ADF4159.kicad_sch.lck
+*.lck

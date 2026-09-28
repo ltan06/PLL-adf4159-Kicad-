@@ -1789,7 +1789,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0F"
+		(property "Value" "0.1uF"
 			(at 135.89 83.058 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1869,10 +1869,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "90272b74-5108-42d8-a59e-a893ca16c02c")
 		(property "Reference" "C15"
-			(at 100.33 90.17 90)
+			(at 100.076 101.854 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2298,7 +2297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 56.642 69.85 90)
 			(hide yes)
 			(show_name no)
